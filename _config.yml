@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "박제홍"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/3a781f84babd4b0b910b5af705c0552b.png"
   bio              : " "
   location         : "흥덕고등학교"
   email            : "ppenguin070@gmail.com"
